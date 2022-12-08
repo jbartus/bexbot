@@ -1,5 +1,6 @@
 # bexbot
 
+## energy flow diagram
 ```mermaid
 flowchart TD
 Sun-->Biomass;
@@ -17,3 +18,11 @@ Pyrolizer-->Syngas;
 Syngas-->Generator;
 Generator-->Battery;
 ```
+
+
+## napkin math
+900kg hemp per hectare per season
+400kg of biochar produced by pyrolyzing it
+200kg of carbon in that biochar
+10000kg rough personal annual carbon footprint
+50 hecares, or 120 acres needed to offset
