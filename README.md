@@ -19,6 +19,7 @@ Syngas-->Generator;
 Generator-->Battery;
 ```
 
+it probably makes more sense for the syngas to be directly ignited, rather than sent through a generator, to provide heat for dehydration before pyrolysis
 
 ## napkin math
 900kg hemp per hectare per season*\
@@ -26,5 +27,5 @@ Generator-->Battery;
 200kg of carbon in that biochar\
 10000kg rough personal annual carbon footprint\
 ∴ 50 hecares, or 120 acres needed to offset \
-\
-* probably involves irrigation and/or fertilizer so might be half that without
+
+900kg/ha probably involves irrigation and/or fertilizer so might be half that without
