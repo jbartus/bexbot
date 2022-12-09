@@ -26,6 +26,8 @@ it probably makes more sense for the syngas to be directly ignited, rather than 
 400kg of biochar produced by pyrolyzing it\
 200kg of carbon in that biochar\
 10000kg rough personal annual carbon footprint\
-∴ 50 hecares, or 120 acres needed to offset \
+3:8 carbon-to-co2 ratio \
+2730kg of carbon to sequester per year \
+13.7 hectares or 34 acres
 
 900kg/ha probably involves irrigation and/or fertilizer so might be half that without
